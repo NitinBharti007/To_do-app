@@ -1,3 +1,46 @@
+## TodoList Project
+
+Welcome to the TodoList project! This is a simple todo list application built with React.
+
+## How to Run
+
+To run this project on your local machine, follow these steps:
+
+Clone the repository to your local machine:
+git clone
+
+2.Navigate to the project directory:
+
+cd TodoList
+
+3.Install dependencies using npm or yarn: npm install or yarn install
+
+## Features
+
+Add new tasks
+
+Mark tasks as completed
+
+Filter tasks by status (All, Completed, Incomplete)
+
+Delete tasks
+
+Technologies Used
+
+This project was built using the following technologies:
+
+React
+
+HTML
+
+CSS
+
+## Brief Description
+
+This project is a TodoList application built with React. It allows users to add new tasks, mark tasks as completed, filter tasks by status (All, Completed, Incomplete), and delete tasks. The application stores tasks locally using browser's localStorage, ensuring persistence of tasks across sessions. It features clean and organized code structure, making it easy to understand and modify. The project demonstrates basic React concepts such as state management, useEffect hook for handling side effects, and conditional rendering. Additionally, it utilizes CSS for styling, providing a visually appealing user interface.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
